@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pigeonligh&show_icons=true&count_private=true&theme=vue&hide_title=true&include_all_commits=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pigeonligh&show_icons=true&count_private=true&theme=vue&hide_title=true&include_all_commits=true" />
 </div>
