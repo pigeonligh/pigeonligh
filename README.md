@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/pigeonligh">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pigeonligh&count_private=true&theme=vue&hide_title=true&include_all_commits=true" />
+  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pigeonligh&count_private=true&include_all_commits=true" />
 </a>
